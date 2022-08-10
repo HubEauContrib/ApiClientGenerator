@@ -14,7 +14,7 @@ dotnet tool install --global --prerelease Microsoft.OpenApi.Kiota
 
 ## Créer l'api cliente pour dotnet
 ```
-kiota -c EcoulementClient -n HubEauKit -l csharp -d https://hubeau.eaufrance.fr/api/vbeta/ecoulement/api-docs -o HubEauKit.net/src/Clients
+kiota -c EcoulementClient -n HubEauKit -l csharp -d https://hubeau.eaufrance.fr/api/vbeta/ecoulement/api-docs -o HubEauKit.net/src/HubEauKit.net
 ```
 
 
